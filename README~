@@ -1,0 +1,10 @@
+This repository contains pre-compiled kernel, modules, script.bin , userspace libraries and some patches , and they are suitable for all LINUX OS of the LeMarker Community. Meanwhile, they could be upgraded by bp-update and lemedia-update tool. For more information of the bp-update and lemedia-update, please visit the website at https://github.com/LeMaker/scripts
+
+Details as follows:
+linux-latest.tar.bz2: The latest firmware and including bp-kernel-update kernel/ lib/modules/ lib/libvecore.so
+linux-latest.tar.bz2.asc: digital signature of Linux-lastest.tar.bz2
+
+lemedia-latest.tgz: The latest patches for updating the LeMedia with the tool lemedia-update;
+lemedia-latest.tgz.asc: digital signature of lemedia-latest.tgz 
+
+
